@@ -1,3 +1,5 @@
 test conflict pull ---main abcde
 test conflict pull ---main message
 abcdeeef
+bcd
+efefef
